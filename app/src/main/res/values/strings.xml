@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JetpackComposeSubmission</string>
+    <string name="userlist">UserList</string>
+    <string name="search_someone">Search someone..</string>
+    <string name="buttonfavorite">ButtonFavorite</string>
+    <string name="not_user_favorite">Not User Favorite</string>
+    <string name="user_favorite">User Favorite</string>
+    <string name="user_avatar">User Avatar</string>
+    <string name="listrepositories">ListRepositories</string>
+    <string name="about_page">about_page</string>
+    <string name="fajar_alif_riyandi">Fajar Alif Riyandi</string>
+    <string name="fajariyandi36_gmail_com">fajariyandi36@gmail.com</string>
+    <string name="back_to_home">Back to Home</string>
+</resources>
